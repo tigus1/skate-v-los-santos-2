@@ -1,0 +1,13 @@
+{
+  "title": "Skate V: Los Santos Session",
+  "tagline": "Experience authentic flick-it skateboarding mechanics across Los Santos as Franklin, Michael, or Trevor.",
+  "primaryGame": "gta-v",
+  "license": "MIT",
+  "remixAllowed": true,
+  "components": [
+    {
+      "name": "SkateV Core Mod",
+      "fileName": "SkateV_LosSantos_v1.0.0.zip"
+    }
+  ]
+}
